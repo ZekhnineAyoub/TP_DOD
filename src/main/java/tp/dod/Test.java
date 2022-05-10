@@ -29,7 +29,7 @@ public class Test {
         return (Espace)espace.output(rects).get(0);
     }
 
-    public static void tp1(List<Forme> formes) {
+    public static void listEspaceOccupationRectangulaireForms(List<Forme> formes) {
         Emission espace = new Emission();
         List<Forme> rects = new ArrayList<>();
         Conversion conversion = new Conversion();
@@ -51,7 +51,6 @@ public class Test {
     }
 
     static public void main (String [] args) throws Exception {
-
 
         //Génération des forms
         String chemin = "src\\main\\resources\\espace.txt";
