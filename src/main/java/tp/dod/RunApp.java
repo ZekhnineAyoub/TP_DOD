@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class Test {
+public class RunApp {
 
 
     // afficher l'espace de la forme
