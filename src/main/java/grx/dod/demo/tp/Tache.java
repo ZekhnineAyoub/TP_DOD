@@ -1,5 +1,8 @@
 package grx.dod.demo.tp;
 
+import grx.dod.demo.tp.types.objet.Conversion;
+import grx.dod.demo.tp.types.objet.Forme;
+
 import java.util.concurrent.Callable;
 
 public class Tache implements Callable<Forme> {

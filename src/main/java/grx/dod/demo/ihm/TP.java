@@ -6,13 +6,13 @@ import java.util.List;
 
 import javax.swing.JFrame;
 
-import grx.dod.demo.tp.Cercle;
-import grx.dod.demo.tp.Conversion;
-import grx.dod.demo.tp.Emission;
-import grx.dod.demo.tp.Espace;
-import grx.dod.demo.tp.Forme;
-import grx.dod.demo.tp.Generation;
-import grx.dod.demo.tp.Rectangle;
+import grx.dod.demo.tp.types.objet.Cercle;
+import grx.dod.demo.tp.types.objet.Conversion;
+import grx.dod.demo.tp.types.objet.Emission;
+import grx.dod.demo.tp.types.objet.Espace;
+import grx.dod.demo.tp.types.objet.Forme;
+import grx.dod.demo.tp.types.objet.Generation;
+import grx.dod.demo.tp.types.objet.Rectangle;
 
 public class TP {
 	

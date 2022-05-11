@@ -1,6 +1,5 @@
 package grx.dod.demo.ihm;
 
-import java.awt.Color;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;

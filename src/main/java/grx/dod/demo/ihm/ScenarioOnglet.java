@@ -4,8 +4,8 @@ import java.util.List;
 
 import javax.swing.JTabbedPane;
 
-import grx.dod.demo.tp.Espace;
-import grx.dod.demo.tp.Forme;
+import grx.dod.demo.tp.types.objet.Espace;
+import grx.dod.demo.tp.types.objet.Forme;
 
 public class ScenarioOnglet extends JTabbedPane {
 

@@ -1,5 +1,7 @@
 package grx.dod.demo.tp;
 
+import grx.dod.demo.tp.types.objet.*;
+
 import java.awt.BorderLayout;
 import java.util.ArrayList;
 import java.util.List;

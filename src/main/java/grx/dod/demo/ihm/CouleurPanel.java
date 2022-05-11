@@ -7,7 +7,7 @@ import java.util.Set;
 import javax.swing.JPanel;
 
 import grx.dod.demo.tp.Couleur;
-import grx.dod.demo.tp.Espace;
+import grx.dod.demo.tp.types.objet.Espace;
 
 public class CouleurPanel extends JPanel {
 

@@ -21,7 +21,7 @@ public enum Couleur {
 	public Color getColor() {
 		return color;
 	}
-	/*
+    /*
 		colors.put("green", Color.GREEN);
 		colors.put("blue", Color.BLUE);
 		colors.put("red", Color.RED);
@@ -29,7 +29,6 @@ public enum Couleur {
 		colors.put("magenta", Color.MAGENTA);
 		colors.put("pink", Color.PINK);
 		colors.put("yellow", Color.YELLOW);
-	 */
-	
+	*/
 
 }

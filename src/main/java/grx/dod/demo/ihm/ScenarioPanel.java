@@ -5,9 +5,9 @@ import java.util.List;
 
 import javax.swing.JPanel;
 
-import grx.dod.demo.tp.Draw;
-import grx.dod.demo.tp.Espace;
-import grx.dod.demo.tp.Forme;
+import grx.dod.demo.tp.types.objet.Draw;
+import grx.dod.demo.tp.types.objet.Espace;
+import grx.dod.demo.tp.types.objet.Forme;
 
 public class ScenarioPanel extends JPanel {
 
