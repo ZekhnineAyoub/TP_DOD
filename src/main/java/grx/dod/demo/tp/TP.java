@@ -65,12 +65,17 @@ public class TP {
 		
 		s1 = emission.output(mutation.output(Filtre.output(Forme.CERCLE,    formes)));
 		s2 = emission.output(               (Filtre.output(Forme.RECTANGLE, formes)));
+
+		Consommation affichage = new Consommation();
+		affichage.consume(emission.output(s1));
+
+		affichage.consume(emission.output(s2));
 		
 		List<Forme> sN = new ArrayList<>();
 		sN.addAll(s1);
 		sN.addAll(s2);
 		
-		Consommation affichage = new Consommation();
+		//Consommation affichage = new Consommation();
 		affichage.consume(emission.output(sN));
 	}
 	

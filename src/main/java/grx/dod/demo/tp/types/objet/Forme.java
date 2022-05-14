@@ -9,7 +9,6 @@ public abstract class Forme {
 
 	String color;
 
-	
 	protected Forme(String type, String color) {
 		this.type = type;
 		this.color = color;

@@ -56,6 +56,7 @@ public class Emission implements Pipeline {
 			
 			x = minTopX;
 			y = minTopY;
+
 			width = Math.abs(maxBottomX - minTopX);
 			height = Math.abs(maxBottomY - minTopY);
 			
